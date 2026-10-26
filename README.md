@@ -14,10 +14,15 @@
 
 ![完整分子库](results/p2_all_molecules_grid.png)
 
-### 3D 分子构象
+### Top 12 分子结构式
 
-![3D 构象](results/p2_molecules_3d_grid.png)
+![Top 12](results/p2_molecules_3d_grid.png)
 
+**[→ 查看可交互的 3D 构象](https://chloelincc.github.io/MolGen-GPT2/results/molecules_3d.html)**（可旋转、缩放；构象由 RDKit ETKDGv3 嵌入并经 MMFF94 优化）
+
+---
+
+## 结果统计
 ---
 
 ## 结果统计
